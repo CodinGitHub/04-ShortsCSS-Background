@@ -1,7 +1,9 @@
 body{
-    /* background-color: lightgreen; */
-    background-image: url(https://unsplash.com/photos/tKN1WXrzQ3s);
-    /* background-repeat: no-repeat; */
-    /* background-attachment: fixed; */
-    /* background-position: top; */
+    /* background-color: red;
+    background-image: url(./fondo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom left; */
+
+    background: red url(./fondo.jpg) no-repeat fixed bottom left;
 }
